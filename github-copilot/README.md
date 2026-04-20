@@ -346,7 +346,7 @@ https://github-cloud.s3.amazonaws.com/
 https://api.githubcopilot.com/
 api.enterprise.githubcopilot.com
 https://productionresultssa{0-19}.blob.core.windows.net/
-168.63.129.16  (Azure metadata)
+168.63.129.16  (Azure プラットフォーム予約IP: DNS/ヘルスプローブ等)
 172.18.0.1     (Docker ゲートウェイ)
 ```
 
