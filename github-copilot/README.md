@@ -76,7 +76,8 @@ GitHub Copilot Coding Agent は **GitHub Actions ランナー上で動作する 
 │                                                              │
 │  Additional Binaries:                                        │
 │  ├── autofind    (repo auto-discovery, 54MB ELF)            │
-│  ├── blackbird-mcp-server (semantic code search, 11MB ELF)  │
+│  ├── blackbird-mcp-server (semantic code search; "Bluebird" │
+│  │                     in later sections, 11MB ELF)         │
 │  ├── github-mcp-server    (GitHub API, 11MB ELF)            │
 │  ├── ripgrep     (multi-platform rg binaries)               │
 │  └── ebpf/in-path/padawan-fw (eBPF firewall, 18MB ELF)     │
