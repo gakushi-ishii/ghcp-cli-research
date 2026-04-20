@@ -220,9 +220,9 @@ $RUNNER_TEMP/
 - **目的**: 素早い回答が目的（深掘りはしない）
 - **モデル**: `claude-haiku-4.5`（軽量・高速）
 - **特徴**:
-  - Bluebird（セマンティック検索）ツールを多数保有
+  - `blackbird-mcp-server`（セマンティック検索MCPサーバー。本文中の「Bluebird」はこの検索系機能を指す呼称として扱う）を利用可能
   - Git履歴検索（コミット、PR、作者、時刻）が可能
-  - LSP（Language Server Protocol）ツールも使用可能
+  - LSP（Language Server Protocol）ツールも使用可能で、こちらはシンボル解決・定義参照・型情報取得を担う
   - 「答えが出たら即停止」が原則
 
 ### 4.4 task エージェント
