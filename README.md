@@ -7,6 +7,7 @@ GitHub Copilot CLI の Deep Research 用リポジトリです。
 ### GitHub Copilot
 
 - [GitHub Copilot Coding Agent — 内部構造・挙動 調査レポート](github-copilot/README.md)
+- [GitHub Copilot とサンドボックス環境での利用調査](github-copilot/sandbox-agents-research.md)
 
 ### Azure
 
