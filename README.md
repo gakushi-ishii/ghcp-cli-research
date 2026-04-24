@@ -9,6 +9,10 @@ GitHub Copilot CLI の Deep Research 用リポジトリです。
 - [GitHub Copilot Coding Agent — 内部構造・挙動 調査レポート](github-copilot/README.md)
 - [GitHub Copilot とサンドボックス環境での利用調査](github-copilot/sandbox-agents-research.md)
 
+### Python
+
+- [uv と pip の違い](python/uv-vs-pip.md)
+
 ### Azure
 
 - [Azure AI Search 機能詳細ガイド](azure/azure-ai-search-features.md)
