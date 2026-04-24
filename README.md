@@ -4,6 +4,10 @@ GitHub Copilot CLI の Deep Research 用リポジトリです。
 
 ## コンテンツ
 
+### Microsoft Agent Framework
+
+- [Microsoft Agent Framework 調査レポート](microsoft-agent-framework/README.md)
+
 ### GitHub Copilot
 
 - [GitHub Copilot Coding Agent — 内部構造・挙動 調査レポート](github-copilot/README.md)
