@@ -21,3 +21,7 @@ GitHub Copilot CLI の Deep Research 用リポジトリです。
 
 - [Azure AI Search 機能詳細ガイド](azure/azure-ai-search-features.md)
 - [Azure Machine Learning & Azure AI サービス全体像](azure/azure-machine-learning-azure-ai.md)
+
+### モバイルアプリ開発
+
+- [モバイルアプリ開発トレンド 2025 調査レポート](mobile-app-development/README.md)
